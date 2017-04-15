@@ -1,4 +1,4 @@
-ReactTemplate
+reactTemplate
 ===========
 
 To install reactTemplate, run:
@@ -27,7 +27,8 @@ Which will clean dist, run build, and start the server.
 
 
 
-=======
+===========
+
 To navigate the pages:
 
 Going to http://localhost:8080/ will take you to home
