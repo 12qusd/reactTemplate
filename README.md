@@ -1,10 +1,10 @@
-Outercircle
+ReactTemplate
 ===========
 
-To install OuterCircle, run:
+To install reactTemplate, run:
 
-    git clone https://github.com/istewart/outercircle.git
-    cd outercircle
+    git clone https://github.com/istewart/reactTemplate.git
+    cd reactTemplate
     npm install
 
 This will install the OuterCircle respository and all of its dependencies. You can then build the repository using:
@@ -30,6 +30,5 @@ Which will clean dist, run build, and start the server.
 =======
 To navigate the pages:
 
-Going to http://localhost:8080/ will take you to the main newsfeed.
-Going to http://localhost:8080/donor will take you to a sample donor page.
-Going to http://localhost:8080/charity will take you to a sample charity page
+Going to http://localhost:8080/ will take you to home
+Going to http://localhost:8080/example will take you to an example page
